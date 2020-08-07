@@ -8,34 +8,28 @@ This server uses MongoDB and Postgrees.
 
 ### Install dependencies
 ```
-
 npm i
 ```
 ### Create .env
 ```
-
 "Database Information. Model env_file."
 ```
 
 ### Start Server on development mode
 ```
-
 npm start
 ```
 ### Start Server on production mode
 ```
-
 npm run production
 ```
 
 ## Frontend
 ### Install dependencies
 ```
-
 npm i
 ```
 ### Run vue-cli
 ```
-
 npm run serve
 ```
